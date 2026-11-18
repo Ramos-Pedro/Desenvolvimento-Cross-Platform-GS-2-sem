@@ -8,11 +8,11 @@ Esta é a versão em Flutter do app que o grupo também desenvolveu em Kotlin (J
 
 ## Desenvolvedores
 
-| RM | Nome completo |
-|----|---------------|
-| 559513 | Pedro Ribeiro Ramos | https://youtu.be/yR_wishVWz4
-| 560032 | Thiago Cardoso Mendes Machado | https://youtu.be/yR_wishVWz4
-| 558527 | Ana Julia Reis |
+| RM | Nome completo |Pitch GS|
+|----|---------------|---------------|
+| 559513 | Pedro Ribeiro Ramos | https://youtu.be/yR_wishVWz4 |
+| 560032 | Thiago Cardoso Mendes Machado | https://youtu.be/yR_wishVWz4 |
+| 558527 | Ana Julia Reis |https://youtu.be |
 
 ## Tema da Global Solution
 
